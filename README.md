@@ -1,11 +1,6 @@
 <h1 align="center">Hola, soy D. Roldan</h1>
 
 <p align="center">
-  Estoy construyendo mi perfil publico como desarrollador, con foco en crear proyectos claros,
-  utiles y bien documentados.
-</p>
-
-<p align="center">
   <a href="https://github.com/d-roldan">
     <img src="https://img.shields.io/badge/GitHub-d--roldan-181717?style=for-the-badge&logo=github" alt="GitHub d-roldan" />
   </a>
